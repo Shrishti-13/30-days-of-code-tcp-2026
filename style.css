@@ -1,4 +1,4 @@
-/* ===== CSS RESET ===== */
+
 * {
   margin: 0;
   padding: 0;
@@ -7,21 +7,20 @@
   
 }
 
-/* ===== THEME VARIABLES ===== */
+
 :root {
   --primary: #6c63ff;
   --text: #222;
   --background: #8c61b2;
 }
 
-/* ===== BODY ===== */
+
 body{
     background-color: #71697a;
 
     
 }
 
-/* ===== HEADER & NAV ===== */
 header {
   background-color:#f2b7c6;
   padding: 20px;
@@ -46,7 +45,7 @@ nav a:hover {
 
 
 
-/* ===== MAIN CONTENT ===== */
+
 main {
   max-width: 900px;
   margin: 40px auto;
@@ -54,14 +53,14 @@ main {
   color:azure;
 }
 
-/* ===== PROFILE IMAGE ===== */
+
 img {
   border-radius: 50%;
   display: block;
   margin: 20px auto;
 }
 
-/* ===== BUTTON ===== */
+
 button {
     background-color: #8c61b2;
 }
